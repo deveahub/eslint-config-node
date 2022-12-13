@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrios-dev/eslint-config-node"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "eslint-config-base": "*"
+  },
+  "files": [
+    "node-package.js"
+  ]
+}
